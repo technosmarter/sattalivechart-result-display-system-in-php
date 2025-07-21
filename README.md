@@ -12,6 +12,7 @@
     It provides a legal, non-transactional solution for showing number-based results in a professional layout. 
     Whether you want to create a satta result portal or an archive-style dashboard, this script gives you complete flexibility.
   </p>
+<img width="1176" height="841" alt="number-live-chart-system" src="https://github.com/user-attachments/assets/4664455b-933b-429f-aaa1-34dd0edb64c8" />
 
   <p>This system is ideal for:</p>
   <ul>
@@ -26,6 +27,8 @@
   <h2>Key Features</h2>
   <ul>
     <li>Real-time number result update system, similar to live satta king platforms</li>
+   <img width="1275" height="498" alt="sattalivechart-system-in-php" src="https://github.com/user-attachments/assets/7e26479d-b835-457c-a37f-089a34d820f1" />
+
     <li>Month-wise result chart layout</li>
     <li>Token-based number verification feature</li>
     <li>Easy-to-use admin panel to manage results</li>
@@ -35,6 +38,7 @@
     <li>Clean PHP code with SEO-optimized structure</li>
     <li>Compatible with most shared or cloud hosting environments</li>
   </ul>
+<img width="1210" height="744" alt="token-verification-system" src="https://github.com/user-attachments/assets/066cbcba-8a97-45c1-b40d-19ecf4d7a152" />
 
   <h2>Technical Details</h2>
   <ul>
