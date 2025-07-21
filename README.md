@@ -45,12 +45,7 @@
     <li>Works on both shared and VPS hosting</li>
   </ul>
 
-  <h2>SEO Keywords for Reach</h2>
-  <p>
-    satta king, satta matka, super fast king, aking satta, php script, satta result chart, satta dashboard code, 
-    gambling style layout, number chart panel, earn money satta, satta game system, satta open close, download satta script, 
-    satta panel chart php, betting result display, token satta system
-  </p>
+
 
   <h2>Use Cases</h2>
   <ul>
