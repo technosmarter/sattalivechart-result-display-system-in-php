@@ -1,6 +1,6 @@
 # SattaLiveChart – PHP Satta King Style Result Display Script
  <p>
-    SattaLiveChart is a clean, responsive, and SEO-friendly PHP & MySQL script built for creating 
+    SattaLiveChart is a clean, responsive, and SEO-friendly PHP & MySQL script built like 
     <strong>satta king</strong>, <strong>satta matka</strong>, or <strong>super fast king</strong> style result dashboards. 
     It is perfect for developers building data-only platforms that mimic real <strong>aking satta</strong> or lottery-based result systems.
   </p>
